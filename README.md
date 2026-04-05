@@ -123,3 +123,6 @@ git push -u origin main
 - **Mock data generator** produces realistic 6-month history with randomised amounts; runs once on first load and is cached in localStorage
 
 ---
+
+## Live Demo
+finflow-4rbfj2nq9-ronaks-projects-51fb0959.vercel.app
