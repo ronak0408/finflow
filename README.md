@@ -123,7 +123,3 @@ git push -u origin main
 - **Mock data generator** produces realistic 6-month history with randomised amounts; runs once on first load and is cached in localStorage
 
 ---
-
-## License
-
-none
