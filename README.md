@@ -126,4 +126,4 @@ git push -u origin main
 
 ## License
 
-MIT
+none
